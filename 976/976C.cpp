@@ -1,6 +1,5 @@
 /*
-*greedy
-*使用struct类型进行排序
+*greedy sort
 */
 #include<iostream>
 #include<algorithm>
